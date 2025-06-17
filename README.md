@@ -2,7 +2,7 @@
 
 This project documents a full-scale network infrastructure proposal for the Biological Science Building at California State University, Los Angeles. Created as a capstone deliverable, it outlines the network design, hardware recommendations, security architecture, and implementation planning needed to support 100+ users across classrooms, labs, and administrative offices.
 
-📄 **[View Full Project Report (PDF)](./Biological-Science-Network-Design.pdf)**
+📄 **[View Full Project Report (PDF)](./Biological-Science-Building-Network-Design.pdf)**
 
 ---
 
